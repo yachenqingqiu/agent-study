@@ -293,10 +293,14 @@ if __name__ == "__main__":
 
     print()
     print("后续章节运行前，请先执行依赖安装：")
-    print("  修改下方 install=True 后运行本文件")
+
     print()
 
     install = False  # 改为 True 以执行安装
+    print(f"install={install}")
+    print("修改下方 install=True 后运行本文件")
+    install = True  # 改为 True 以执行安装
+    print(f"install={install}")
     if install:
         install_dependencies()
 
