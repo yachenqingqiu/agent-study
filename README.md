@@ -1,3 +1,4 @@
+# agent-study:test_leaningAI
 <p align="center">
   <h1 align="center">🤖 AI Agent 全栈学习课程</h1>
   <p align="center">
@@ -306,3 +307,4 @@ MIT License — 自由使用、修改、分发。
   <b>如果这个项目对你有帮助，请给一个 ⭐ Star！</b><br>
   <sub>36 章 · 7 层递进 · 持续更新中 · 欢迎提交 Issue 和 PR</sub>
 </p>
+
