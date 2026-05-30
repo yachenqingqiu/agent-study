@@ -1,4 +1,4 @@
-# agent-study:test_leaningAI
+# agent-study:test_leaningAI-20260530
 <p align="center">
   <h1 align="center">🤖 AI Agent 全栈学习课程</h1>
   <p align="center">
